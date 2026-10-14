@@ -1,0 +1,1370 @@
+configure exit: 0
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/tools'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/tools'
+No .version file found, creating one
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/tools'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/tools'
+LN: include/arch to arch/arm/include
+LN: include/arch/board to configs/kosagi-fernvale/include
+LN: include/arch/chip to arch/arm/include/mt6260
+LN: arch/arm/src/board to configs/kosagi-fernvale/src
+LN: arch/arm/src/chip to arch/arm/src/mt6260
+LN: include/apps to ../apps/include
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[3]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[3]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+Register: cpuhog
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+Register: ostest
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+Register: usbterm
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+Register: ramtest
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+Register: sysinfo
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+Register: usbmon_start
+Register: usbmon_stop
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+Register: vi
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/tools'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/tools'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[3]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[3]: Nothing to be done for 'context'.
+make[3]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+Register: ramtest
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+CC:  init/os_start.c
+CC:  init/os_bringup.c
+CC:  irq/irq_initialize.c
+CC:  irq/irq_attach.c
+CC:  irq/irq_dispatch.c
+CC:  irq/irq_unexpectedisr.c
+CC:  paging/pg_miss.c
+CC:  paging/pg_worker.c
+CC:  group/group_create.c
+CC:  group/group_join.c
+CC:  group/group_leave.c
+CC:  group/group_find.c
+CC:  group/group_setupstreams.c
+CC:  group/group_setupidlefiles.c
+CC:  group/group_setuptaskfiles.c
+CC:  group/group_foreachchild.c
+CC:  group/group_killchildren.c
+CC:  task/task_reparent.c
+CC:  group/group_childstatus.c
+CC:  group/group_signal.c
+group/group_signal.c: In function 'group_signal_handler':
+group/group_signal.c:142:11: warning: this 'if' clause does not guard... [-Wmisleading-indentation]
+  142 |           if (info->ptcb != NULL);
+      |           ^~
+group/group_signal.c:143:13: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'if'
+  143 |             {
+      |             ^
+CC:  sched/sched_garbage.c
+CC:  sched/sched_getfiles.c
+CC:  sched/sched_addreadytorun.c
+CC:  sched/sched_removereadytorun.c
+CC:  sched/sched_addprioritized.c
+CC:  sched/sched_mergepending.c
+CC:  sched/sched_addblocked.c
+CC:  sched/sched_removeblocked.c
+CC:  sched/sched_free.c
+CC:  sched/sched_gettcb.c
+CC:  sched/sched_verifytcb.c
+CC:  sched/sched_releasetcb.c
+CC:  sched/sched_getsockets.c
+CC:  sched/sched_getstreams.c
+CC:  sched/sched_setparam.c
+CC:  sched/sched_setpriority.c
+CC:  sched/sched_getparam.c
+CC:  sched/sched_setscheduler.c
+CC:  sched/sched_getscheduler.c
+CC:  sched/sched_yield.c
+CC:  sched/sched_rrgetinterval.c
+CC:  sched/sched_foreach.c
+CC:  sched/sched_lock.c
+CC:  sched/sched_unlock.c
+CC:  sched/sched_lockcount.c
+CC:  sched/sched_self.c
+CC:  sched/sched_reprioritize.c
+CC:  sched/sched_waitpid.c
+CC:  sched/sched_waitid.c
+CC:  sched/sched_wait.c
+CC:  sched/sched_cpuload.c
+CC:  sched/sched_processtimer.c
+CC:  task/task_create.c
+CC:  task/task_init.c
+CC:  task/task_setup.c
+CC:  task/task_activate.c
+CC:  task/task_start.c
+CC:  task/task_delete.c
+CC:  task/task_exit.c
+CC:  task/task_exithook.c
+CC:  task/task_recover.c
+CC:  task/task_restart.c
+CC:  task/task_spawn.c
+CC:  task/task_spawnparms.c
+CC:  task/task_terminate.c
+CC:  task/task_getgroup.c
+CC:  task/task_prctl.c
+CC:  task/task_getpid.c
+CC:  task/exit.c
+CC:  task/task_vfork.c
+CC:  task/task_posixspawn.c
+CC:  errno/errno_getptr.c
+CC:  wdog/wd_initialize.c
+CC:  wdog/wd_create.c
+CC:  wdog/wd_start.c
+CC:  wdog/wd_cancel.c
+CC:  wdog/wd_delete.c
+CC:  wdog/wd_gettime.c
+CC:  semaphore/sem_initialize.c
+CC:  semaphore/sem_destroy.c
+CC:  semaphore/sem_open.c
+CC:  semaphore/sem_close.c
+CC:  semaphore/sem_unlink.c
+CC:  semaphore/sem_wait.c
+CC:  semaphore/sem_trywait.c
+CC:  semaphore/sem_timedwait.c
+CC:  semaphore/sem_post.c
+CC:  semaphore/sem_findnamed.c
+CC:  semaphore/sem_waitirq.c
+CC:  semaphore/sem_holder.c
+CC:  signal/sig_initialize.c
+CC:  signal/sig_action.c
+CC:  signal/sig_procmask.c
+CC:  signal/sig_pending.c
+CC:  signal/sig_suspend.c
+CC:  signal/sig_kill.c
+CC:  signal/sig_queue.c
+CC:  signal/sig_waitinfo.c
+CC:  signal/sig_timedwait.c
+CC:  signal/sig_findaction.c
+CC:  signal/sig_allocatependingsigaction.c
+CC:  signal/sig_releasependingsigaction.c
+CC:  signal/sig_unmaskpendingsignal.c
+CC:  signal/sig_removependingsignal.c
+CC:  signal/sig_releasependingsignal.c
+CC:  signal/sig_lowest.c
+CC:  signal/sig_mqnotempty.c
+CC:  signal/sig_cleanup.c
+CC:  signal/sig_dispatch.c
+CC:  signal/sig_deliver.c
+CC:  signal/sig_pause.c
+CC:  signal/sig_nanosleep.c
+CC:  pthread/pthread_create.c
+CC:  pthread/pthread_exit.c
+CC:  pthread/pthread_join.c
+CC:  pthread/pthread_detach.c
+CC:  pthread/pthread_yield.c
+CC:  pthread/pthread_getschedparam.c
+CC:  pthread/pthread_setschedparam.c
+CC:  pthread/pthread_mutexinit.c
+CC:  pthread/pthread_mutexdestroy.c
+CC:  pthread/pthread_mutexlock.c
+CC:  pthread/pthread_mutextrylock.c
+CC:  pthread/pthread_mutexunlock.c
+CC:  pthread/pthread_condinit.c
+CC:  pthread/pthread_conddestroy.c
+CC:  pthread/pthread_condwait.c
+CC:  pthread/pthread_condsignal.c
+CC:  pthread/pthread_condbroadcast.c
+CC:  pthread/pthread_barrierinit.c
+CC:  pthread/pthread_barrierdestroy.c
+CC:  pthread/pthread_barrierwait.c
+CC:  pthread/pthread_cancel.c
+CC:  pthread/pthread_setcancelstate.c
+CC:  pthread/pthread_keycreate.c
+CC:  pthread/pthread_setspecific.c
+CC:  pthread/pthread_getspecific.c
+CC:  pthread/pthread_keydelete.c
+CC:  pthread/pthread_initialize.c
+CC:  pthread/pthread_completejoin.c
+CC:  pthread/pthread_findjoininfo.c
+CC:  pthread/pthread_once.c
+CC:  pthread/pthread_release.c
+CC:  pthread/pthread_setschedprio.c
+CC:  pthread/pthread_condtimedwait.c
+CC:  pthread/pthread_kill.c
+CC:  pthread/pthread_sigmask.c
+CC:  mqueue/mq_open.c
+CC:  mqueue/mq_close.c
+CC:  mqueue/mq_unlink.c
+CC:  mqueue/mq_send.c
+CC:  mqueue/mq_timedsend.c
+CC:  mqueue/mq_sndinternal.c
+CC:  mqueue/mq_receive.c
+CC:  mqueue/mq_timedreceive.c
+CC:  mqueue/mq_rcvinternal.c
+CC:  mqueue/mq_initialize.c
+CC:  mqueue/mq_descreate.c
+CC:  mqueue/mq_findnamed.c
+CC:  mqueue/mq_msgfree.c
+CC:  mqueue/mq_msgqfree.c
+CC:  mqueue/mq_release.c
+CC:  mqueue/mq_recover.c
+CC:  mqueue/mq_waitirq.c
+CC:  mqueue/mq_notify.c
+CC:  clock/clock_initialize.c
+CC:  clock/clock_settime.c
+CC:  clock/clock_gettime.c
+CC:  clock/clock_getres.c
+CC:  clock/clock_time2ticks.c
+CC:  clock/clock_abstime2ticks.c
+CC:  clock/clock_ticks2time.c
+CC:  clock/clock_gettimeofday.c
+CC:  clock/clock_systimer.c
+CC:  clock/clock_systimespec.c
+CC:  timer/timer_initialize.c
+CC:  timer/timer_create.c
+CC:  timer/timer_delete.c
+CC:  timer/timer_getoverrun.c
+CC:  timer/timer_gettime.c
+CC:  timer/timer_settime.c
+CC:  timer/timer_release.c
+CC:  environ/env_getenvironptr.c
+CC:  environ/env_dup.c
+CC:  environ/env_release.c
+CC:  environ/env_findvar.c
+CC:  environ/env_removevar.c
+CC:  environ/env_clearenv.c
+CC:  environ/env_getenv.c
+CC:  environ/env_putenv.c
+CC:  environ/env_setenv.c
+CC:  environ/env_unsetenv.c
+AR:   os_start.o os_bringup.o irq_initialize.o irq_attach.o irq_dispatch.o irq_unexpectedisr.o pg_miss.o pg_worker.o group_create.o group_join.o group_leave.o group_find.o group_setupstreams.o group_setupidlefiles.o group_setuptaskfiles.o group_foreachchild.o group_killchildren.o task_reparent.o group_childstatus.o group_signal.o sched_garbage.o sched_getfiles.o sched_addreadytorun.o sched_removereadytorun.o sched_addprioritized.o sched_mergepending.o sched_addblocked.o sched_removeblocked.o sched_free.o sched_gettcb.o sched_verifytcb.o sched_releasetcb.o sched_getsockets.o sched_getstreams.o sched_setparam.o sched_setpriority.o sched_getparam.o sched_setscheduler.o sched_getscheduler.o sched_yield.o sched_rrgetinterval.o sched_foreach.o sched_lock.o sched_unlock.o sched_lockcount.o sched_self.o sched_reprioritize.o sched_waitpid.o sched_waitid.o sched_wait.o sched_cpuload.o sched_processtimer.o task_create.o task_init.o task_setup.o task_activate.o task_start.o task_delete.o task_exit.o task_exithook.o task_recover.o task_restart.o task_spawn.o task_spawnparms.o task_terminate.o task_getgroup.o task_prctl.o task_getpid.o exit.o task_vfork.o task_posixspawn.o errno_getptr.o wd_initialize.o wd_create.o wd_start.o wd_cancel.o wd_delete.o wd_gettime.o sem_initialize.o sem_destroy.o sem_open.o sem_close.o sem_unlink.o sem_wait.o sem_trywait.o sem_timedwait.o sem_post.o sem_findnamed.o sem_waitirq.o sem_holder.o sig_initialize.o sig_action.o sig_procmask.o sig_pending.o sig_suspend.o sig_kill.o sig_queue.o sig_waitinfo.o sig_timedwait.o sig_findaction.o sig_allocatependingsigaction.o sig_releasependingsigaction.o sig_unmaskpendingsignal.o sig_removependingsignal.o sig_releasependingsignal.o sig_lowest.o sig_mqnotempty.o sig_cleanup.o sig_dispatch.o sig_deliver.o sig_pause.o sig_nanosleep.o pthread_create.o pthread_exit.o pthread_join.o pthread_detach.o pthread_yield.o pthread_getschedparam.o pthread_setschedparam.o pthread_mutexinit.o pthread_mutexdestroy.o pthread_mutexlock.o pthread_mutextrylock.o pthread_mutexunlock.o pthread_condinit.o pthread_conddestroy.o pthread_condwait.o pthread_condsignal.o pthread_condbroadcast.o pthread_barrierinit.o pthread_barrierdestroy.o pthread_barrierwait.o pthread_cancel.o pthread_setcancelstate.o pthread_keycreate.o pthread_setspecific.o pthread_getspecific.o pthread_keydelete.o pthread_initialize.o pthread_completejoin.o pthread_findjoininfo.o pthread_once.o pthread_release.o pthread_setschedprio.o pthread_condtimedwait.o pthread_kill.o pthread_sigmask.o mq_open.o mq_close.o mq_unlink.o mq_send.o mq_timedsend.o mq_sndinternal.o mq_receive.o mq_timedreceive.o mq_rcvinternal.o mq_initialize.o mq_descreate.o mq_findnamed.o mq_msgfree.o mq_msgqfree.o mq_release.o mq_recover.o mq_waitirq.o mq_notify.o clock_initialize.o clock_settime.o clock_gettime.o clock_getres.o clock_time2ticks.o clock_abstime2ticks.o clock_ticks2time.o clock_gettimeofday.o clock_systimer.o clock_systimespec.o timer_initialize.o timer_create.o timer_delete.o timer_getoverrun.o timer_gettime.o timer_settime.o timer_release.o env_getenvironptr.o env_dup.o env_release.o env_findvar.o env_removevar.o env_clearenv.o env_getenv.o env_putenv.o env_setenv.o env_unsetenv.o
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+CC:  stdio/lib_fileno.c
+CC:  stdio/lib_printf.c
+CC:  stdio/lib_syslog.c
+CC:  stdio/lib_lowsyslog.c
+CC:  stdio/lib_sprintf.c
+CC:  stdio/lib_asprintf.c
+CC:  stdio/lib_snprintf.c
+CC:  stdio/lib_libsprintf.c
+CC:  stdio/lib_vsprintf.c
+CC:  stdio/lib_avsprintf.c
+CC:  stdio/lib_vsnprintf.c
+CC:  stdio/lib_libvsprintf.c
+CC:  stdio/lib_dprintf.c
+CC:  stdio/lib_vdprintf.c
+CC:  stdio/lib_meminstream.c
+CC:  stdio/lib_memoutstream.c
+CC:  stdio/lib_memsistream.c
+CC:  stdio/lib_memsostream.c
+CC:  stdio/lib_lowinstream.c
+CC:  stdio/lib_lowoutstream.c
+CC:  stdio/lib_zeroinstream.c
+CC:  stdio/lib_nullinstream.c
+CC:  stdio/lib_nulloutstream.c
+CC:  stdio/lib_sscanf.c
+CC:  stdio/lib_rawinstream.c
+CC:  stdio/lib_rawoutstream.c
+CC:  stdio/lib_rawsistream.c
+CC:  stdio/lib_rawsostream.c
+CC:  stdio/lib_fopen.c
+CC:  stdio/lib_fclose.c
+CC:  stdio/lib_fread.c
+CC:  stdio/lib_libfread.c
+CC:  stdio/lib_fseek.c
+CC:  stdio/lib_ftell.c
+CC:  stdio/lib_fsetpos.c
+CC:  stdio/lib_fgetpos.c
+CC:  stdio/lib_fgetc.c
+CC:  stdio/lib_fgets.c
+CC:  stdio/lib_gets_s.c
+CC:  stdio/lib_gets.c
+CC:  stdio/lib_libfgets.c
+CC:  stdio/lib_fwrite.c
+CC:  stdio/lib_libfwrite.c
+CC:  stdio/lib_fflush.c
+CC:  stdio/lib_libflushall.c
+CC:  stdio/lib_libfflush.c
+CC:  stdio/lib_rdflush.c
+CC:  stdio/lib_wrflush.c
+CC:  stdio/lib_fputc.c
+CC:  stdio/lib_puts.c
+CC:  stdio/lib_fputs.c
+CC:  stdio/lib_ungetc.c
+CC:  stdio/lib_vprintf.c
+CC:  stdio/lib_fprintf.c
+CC:  stdio/lib_vfprintf.c
+CC:  stdio/lib_stdinstream.c
+CC:  stdio/lib_stdoutstream.c
+CC:  stdio/lib_stdsistream.c
+CC:  stdio/lib_stdsostream.c
+CC:  stdio/lib_perror.c
+CC:  stdio/lib_feof.c
+CC:  stdio/lib_ferror.c
+CC:  stdio/lib_clearerr.c
+CC:  stdio/lib_syslogstream.c
+CC:  stdio/lib_libnoflush.c
+CC:  stdio/lib_libsnoflush.c
+CC:  stdlib/lib_abs.c
+CC:  stdlib/lib_abort.c
+CC:  stdlib/lib_imaxabs.c
+CC:  stdlib/lib_itoa.c
+CC:  stdlib/lib_labs.c
+CC:  stdlib/lib_llabs.c
+CC:  stdlib/lib_rand.c
+CC:  stdlib/lib_qsort.c
+CC:  stdlib/lib_strtol.c
+CC:  stdlib/lib_strtoll.c
+CC:  stdlib/lib_strtoul.c
+CC:  stdlib/lib_strtoull.c
+CC:  stdlib/lib_strtod.c
+CC:  stdlib/lib_checkbase.c
+CC:  unistd/lib_getopt.c
+CC:  unistd/lib_getoptargp.c
+CC:  unistd/lib_getoptindp.c
+CC:  unistd/lib_getoptoptp.c
+CC:  unistd/lib_chdir.c
+CC:  unistd/lib_getcwd.c
+CC:  unistd/lib_execl.c
+CC:  unistd/lib_execv.c
+CC:  unistd/lib_execsymtab.c
+CC:  unistd/lib_sleep.c
+CC:  unistd/lib_usleep.c
+CC:  sched/sched_getprioritymax.c
+CC:  sched/sched_getprioritymin.c
+CC:  string/lib_isbasedigit.c
+CC:  string/lib_memset.c
+CC:  string/lib_memchr.c
+CC:  string/lib_memccpy.c
+CC:  string/lib_memcmp.c
+CC:  string/lib_memmove.c
+CC:  string/lib_skipspace.c
+CC:  string/lib_stpcpy.c
+CC:  string/lib_strcasecmp.c
+CC:  string/lib_strcat.c
+CC:  string/lib_strchr.c
+CC:  string/lib_strcpy.c
+CC:  string/lib_strcmp.c
+CC:  string/lib_strcspn.c
+CC:  string/lib_strdup.c
+CC:  string/lib_strerror.c
+CC:  string/lib_strlen.c
+CC:  string/lib_strnlen.c
+CC:  string/lib_strncasecmp.c
+CC:  string/lib_strncat.c
+CC:  string/lib_strncmp.c
+CC:  string/lib_strncpy.c
+CC:  string/lib_strndup.c
+CC:  string/lib_strcasestr.c
+CC:  string/lib_strpbrk.c
+CC:  string/lib_strrchr.c
+CC:  string/lib_strspn.c
+CC:  string/lib_strstr.c
+CC:  string/lib_strtok.c
+CC:  string/lib_strtokr.c
+CC:  string/lib_memcpy.c
+CC:  pthread/pthread_attrinit.c
+CC:  pthread/pthread_attrdestroy.c
+CC:  pthread/pthread_attrsetschedpolicy.c
+CC:  pthread/pthread_attrgetschedpolicy.c
+CC:  pthread/pthread_attrsetinheritsched.c
+CC:  pthread/pthread_attrgetinheritsched.c
+CC:  pthread/pthread_attrsetstacksize.c
+CC:  pthread/pthread_attrgetstacksize.c
+CC:  pthread/pthread_attrsetschedparam.c
+CC:  pthread/pthread_attrgetschedparam.c
+CC:  pthread/pthread_barrierattrinit.c
+CC:  pthread/pthread_barrierattrdestroy.c
+CC:  pthread/pthread_barrierattrgetpshared.c
+CC:  pthread/pthread_barrierattrsetpshared.c
+CC:  pthread/pthread_condattrinit.c
+CC:  pthread/pthread_condattrdestroy.c
+CC:  pthread/pthread_mutexattrinit.c
+CC:  pthread/pthread_mutexattrdestroy.c
+CC:  pthread/pthread_mutexattrgetpshared.c
+CC:  pthread/pthread_mutexattrsetpshared.c
+CC:  pthread/pthread_mutexattrsettype.c
+CC:  pthread/pthread_mutexattrgettype.c
+CC:  semaphore/sem_init.c
+CC:  semaphore/sem_getvalue.c
+CC:  signal/sig_emptyset.c
+CC:  signal/sig_fillset.c
+CC:  signal/sig_addset.c
+CC:  signal/sig_delset.c
+CC:  signal/sig_ismember.c
+CC:  mqueue/mq_setattr.c
+CC:  mqueue/mq_getattr.c
+CC:  fixedmath/lib_fixedmath.c
+CC:  fixedmath/lib_b16sin.c
+CC:  fixedmath/lib_b16cos.c
+CC:  fixedmath/lib_b16atan2.c
+CC:  net/lib_etherntoa.c
+CC:  net/lib_htons.c
+CC:  net/lib_htonl.c
+CC:  net/lib_inetaddr.c
+CC:  net/lib_inetntoa.c
+CC:  net/lib_inetntop.c
+CC:  net/lib_inetpton.c
+CC:  time/lib_strftime.c
+CC:  time/lib_calendar2utc.c
+CC:  time/lib_daysbeforemonth.c
+CC:  time/lib_isleapyear.c
+CC:  time/lib_time.c
+CC:  time/lib_mktime.c
+CC:  time/lib_gmtime.c
+CC:  time/lib_gmtimer.c
+CC:  libgen/lib_basename.c
+CC:  libgen/lib_dirname.c
+CC:  dirent/lib_readdirr.c
+CC:  dirent/lib_telldir.c
+CC:  spawn/lib_psfa_addaction.c
+CC:  spawn/lib_psfa_addclose.c
+CC:  spawn/lib_psfa_adddup2.c
+CC:  spawn/lib_psfa_addopen.c
+CC:  spawn/lib_psfa_destroy.c
+CC:  spawn/lib_psfa_init.c
+CC:  spawn/lib_psfa_dump.c
+CC:  spawn/lib_psa_getflags.c
+CC:  spawn/lib_psa_getschedparam.c
+CC:  spawn/lib_psa_getschedpolicy.c
+CC:  spawn/lib_psa_getstacksize.c
+CC:  spawn/lib_psa_init.c
+CC:  spawn/lib_psa_setflags.c
+CC:  spawn/lib_psa_setschedparam.c
+CC:  spawn/lib_psa_setschedpolicy.c
+CC:  spawn/lib_psa_setstacksize.c
+CC:  spawn/lib_psa_getsigmask.c
+CC:  spawn/lib_psa_setsigmask.c
+CC:  spawn/lib_psa_dump.c
+CC:  queue/sq_addlast.c
+CC:  queue/sq_addfirst.c
+CC:  queue/sq_addafter.c
+CC:  queue/sq_rem.c
+CC:  queue/sq_remlast.c
+CC:  queue/sq_remfirst.c
+CC:  queue/sq_remafter.c
+CC:  queue/dq_addlast.c
+CC:  queue/dq_addfirst.c
+CC:  queue/dq_addafter.c
+CC:  queue/dq_addbefore.c
+CC:  queue/dq_rem.c
+CC:  queue/dq_remlast.c
+CC:  queue/dq_remfirst.c
+CC:  wqueue/work_thread.c
+CC:  wqueue/work_queue.c
+CC:  wqueue/work_cancel.c
+CC:  wqueue/work_signal.c
+CC:  misc/lib_init.c
+misc/lib_init.c:77:1: warning: 'const' attribute on function returning 'void' [-Wattributes]
+   77 | {
+      | ^
+CC:  misc/lib_filesem.c
+CC:  misc/lib_sendfile.c
+CC:  misc/lib_streamsem.c
+CC:  misc/lib_match.c
+CC:  misc/lib_crc32.c
+CC:  misc/lib_crc16.c
+CC:  misc/lib_dbg.c
+CC:  misc/lib_dumpbuffer.c
+AR:    bin/lib_fileno.o  bin/lib_printf.o  bin/lib_syslog.o  bin/lib_lowsyslog.o  bin/lib_sprintf.o  bin/lib_asprintf.o  bin/lib_snprintf.o  bin/lib_libsprintf.o  bin/lib_vsprintf.o  bin/lib_avsprintf.o  bin/lib_vsnprintf.o  bin/lib_libvsprintf.o  bin/lib_dprintf.o  bin/lib_vdprintf.o  bin/lib_meminstream.o  bin/lib_memoutstream.o  bin/lib_memsistream.o  bin/lib_memsostream.o  bin/lib_lowinstream.o  bin/lib_lowoutstream.o  bin/lib_zeroinstream.o  bin/lib_nullinstream.o  bin/lib_nulloutstream.o  bin/lib_sscanf.o  bin/lib_rawinstream.o  bin/lib_rawoutstream.o  bin/lib_rawsistream.o  bin/lib_rawsostream.o  bin/lib_fopen.o  bin/lib_fclose.o  bin/lib_fread.o  bin/lib_libfread.o  bin/lib_fseek.o  bin/lib_ftell.o  bin/lib_fsetpos.o  bin/lib_fgetpos.o  bin/lib_fgetc.o  bin/lib_fgets.o  bin/lib_gets_s.o  bin/lib_gets.o  bin/lib_libfgets.o  bin/lib_fwrite.o  bin/lib_libfwrite.o  bin/lib_fflush.o  bin/lib_libflushall.o  bin/lib_libfflush.o  bin/lib_rdflush.o  bin/lib_wrflush.o  bin/lib_fputc.o  bin/lib_puts.o  bin/lib_fputs.o  bin/lib_ungetc.o  bin/lib_vprintf.o  bin/lib_fprintf.o  bin/lib_vfprintf.o  bin/lib_stdinstream.o  bin/lib_stdoutstream.o  bin/lib_stdsistream.o  bin/lib_stdsostream.o  bin/lib_perror.o  bin/lib_feof.o  bin/lib_ferror.o  bin/lib_clearerr.o  bin/lib_syslogstream.o  bin/lib_libnoflush.o  bin/lib_libsnoflush.o  bin/lib_abs.o  bin/lib_abort.o  bin/lib_imaxabs.o  bin/lib_itoa.o  bin/lib_labs.o  bin/lib_llabs.o  bin/lib_rand.o  bin/lib_qsort.o  bin/lib_strtol.o  bin/lib_strtoll.o  bin/lib_strtoul.o  bin/lib_strtoull.o  bin/lib_strtod.o  bin/lib_checkbase.o  bin/lib_getopt.o  bin/lib_getoptargp.o  bin/lib_getoptindp.o  bin/lib_getoptoptp.o  bin/lib_chdir.o  bin/lib_getcwd.o  bin/lib_execl.o  bin/lib_execv.o  bin/lib_execsymtab.o  bin/lib_sleep.o  bin/lib_usleep.o  bin/sched_getprioritymax.o  bin/sched_getprioritymin.o  bin/lib_isbasedigit.o  bin/lib_memset.o  bin/lib_memchr.o  bin/lib_memccpy.o  bin/lib_memcmp.o  bin/lib_memmove.o  bin/lib_skipspace.o  bin/lib_stpcpy.o  bin/lib_strcasecmp.o  bin/lib_strcat.o  bin/lib_strchr.o  bin/lib_strcpy.o  bin/lib_strcmp.o  bin/lib_strcspn.o  bin/lib_strdup.o  bin/lib_strerror.o  bin/lib_strlen.o  bin/lib_strnlen.o  bin/lib_strncasecmp.o  bin/lib_strncat.o  bin/lib_strncmp.o  bin/lib_strncpy.o  bin/lib_strndup.o  bin/lib_strcasestr.o  bin/lib_strpbrk.o  bin/lib_strrchr.o  bin/lib_strspn.o  bin/lib_strstr.o  bin/lib_strtok.o  bin/lib_strtokr.o  bin/lib_memcpy.o  bin/pthread_attrinit.o  bin/pthread_attrdestroy.o  bin/pthread_attrsetschedpolicy.o  bin/pthread_attrgetschedpolicy.o  bin/pthread_attrsetinheritsched.o  bin/pthread_attrgetinheritsched.o  bin/pthread_attrsetstacksize.o  bin/pthread_attrgetstacksize.o  bin/pthread_attrsetschedparam.o  bin/pthread_attrgetschedparam.o  bin/pthread_barrierattrinit.o  bin/pthread_barrierattrdestroy.o  bin/pthread_barrierattrgetpshared.o  bin/pthread_barrierattrsetpshared.o  bin/pthread_condattrinit.o  bin/pthread_condattrdestroy.o  bin/pthread_mutexattrinit.o  bin/pthread_mutexattrdestroy.o  bin/pthread_mutexattrgetpshared.o  bin/pthread_mutexattrsetpshared.o  bin/pthread_mutexattrsettype.o  bin/pthread_mutexattrgettype.o  bin/sem_init.o  bin/sem_getvalue.o  bin/sig_emptyset.o  bin/sig_fillset.o  bin/sig_addset.o  bin/sig_delset.o  bin/sig_ismember.o  bin/mq_setattr.o  bin/mq_getattr.o  bin/lib_fixedmath.o  bin/lib_b16sin.o  bin/lib_b16cos.o  bin/lib_b16atan2.o  bin/lib_etherntoa.o  bin/lib_htons.o  bin/lib_htonl.o  bin/lib_inetaddr.o  bin/lib_inetntoa.o  bin/lib_inetntop.o  bin/lib_inetpton.o  bin/lib_strftime.o  bin/lib_calendar2utc.o  bin/lib_daysbeforemonth.o  bin/lib_isleapyear.o  bin/lib_time.o  bin/lib_mktime.o  bin/lib_gmtime.o  bin/lib_gmtimer.o  bin/lib_basename.o  bin/lib_dirname.o  bin/lib_readdirr.o  bin/lib_telldir.o  bin/lib_psfa_addaction.o  bin/lib_psfa_addclose.o  bin/lib_psfa_adddup2.o  bin/lib_psfa_addopen.o  bin/lib_psfa_destroy.o  bin/lib_psfa_init.o  bin/lib_psfa_dump.o  bin/lib_psa_getflags.o  bin/lib_psa_getschedparam.o  bin/lib_psa_getschedpolicy.o  bin/lib_psa_getstacksize.o  bin/lib_psa_init.o  bin/lib_psa_setflags.o  bin/lib_psa_setschedparam.o  bin/lib_psa_setschedpolicy.o  bin/lib_psa_setstacksize.o  bin/lib_psa_getsigmask.o  bin/lib_psa_setsigmask.o  bin/lib_psa_dump.o  bin/sq_addlast.o  bin/sq_addfirst.o  bin/sq_addafter.o  bin/sq_rem.o  bin/sq_remlast.o  bin/sq_remfirst.o  bin/sq_remafter.o  bin/dq_addlast.o  bin/dq_addfirst.o  bin/dq_addafter.o  bin/dq_addbefore.o  bin/dq_rem.o  bin/dq_remlast.o  bin/dq_remfirst.o  bin/work_thread.o  bin/work_queue.o  bin/work_cancel.o  bin/work_signal.o  bin/lib_init.o  bin/lib_filesem.o  bin/lib_sendfile.o  bin/lib_streamsem.o  bin/lib_match.o  bin/lib_crc32.o  bin/lib_crc16.o  bin/lib_dbg.o  bin/lib_dumpbuffer.o
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+CC:  mm_initialize.c
+CC:  mm_sem.c
+CC:  mm_addfreechunk.c
+CC:  mm_size2ndx.c
+CC:  mm_shrinkchunk.c
+CC:  mm_malloc.c
+CC:  mm_zalloc.c
+CC:  mm_calloc.c
+CC:  mm_realloc.c
+CC:  mm_memalign.c
+CC:  mm_free.c
+CC:  mm_mallinfo.c
+CC:  mm_user.c
+AR:    bin/mm_initialize.o  bin/mm_sem.o  bin/mm_addfreechunk.o  bin/mm_size2ndx.o  bin/mm_shrinkchunk.o  bin/mm_malloc.o  bin/mm_zalloc.o  bin/mm_calloc.o  bin/mm_realloc.o  bin/mm_memalign.o  bin/mm_free.o  bin/mm_mallinfo.o  bin/mm_user.o
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+AS:  chip/mt6260_lowputc.S
+AS:  chip/mt6260_restart.S
+AS:  chip/mt6260_vectortab.S
+AS:  arm/up_cache.S
+AS:  arm/up_fullcontextrestore.S
+AS:  arm/up_saveusercontext.S
+AS:  arm/up_vectors.S
+AS:  arm/up_vectoraddrexcptn.S
+AS:  arm/vfork.S
+CC:  chip/mt6260_allocateheap.c
+CC:  chip/mt6260_boot.c
+CC:  chip/mt6260_decodeirq.c
+CC:  chip/mt6260_irq.c
+CC:  chip/mt6260_serial.c
+CC:  chip/mt6260_timerisr.c
+CC:  chip/mt6260_usbdev.c
+CC:  arm/up_assert.c
+CC:  arm/up_blocktask.c
+CC:  arm/up_copyfullstate.c
+CC:  common/up_createstack.c
+CC:  arm/up_dataabort.c
+CC:  common/up_mdelay.c
+CC:  common/up_udelay.c
+CC:  common/up_exit.c
+CC:  common/up_idle.c
+CC:  common/up_initialize.c
+CC:  arm/up_initialstate.c
+CC:  common/up_interruptcontext.c
+CC:  common/up_lowputs.c
+CC:  arm/up_prefetchabort.c
+CC:  arm/up_releasepending.c
+CC:  common/up_releasestack.c
+CC:  arm/up_reprioritizertr.c
+CC:  arm/up_schedulesigaction.c
+CC:  arm/up_sigdeliver.c
+CC:  arm/up_syscall.c
+CC:  arm/up_unblocktask.c
+CC:  arm/up_undefinedinsn.c
+CC:  common/up_usestack.c
+CC:  common/up_vfork.c
+CC:  arm/up_elf.c
+AR:  mt6260_lowputc.o mt6260_restart.o mt6260_vectortab.o up_cache.o up_fullcontextrestore.o up_saveusercontext.o up_vectors.o up_vectoraddrexcptn.o vfork.o mt6260_allocateheap.o mt6260_boot.o mt6260_decodeirq.o mt6260_irq.o mt6260_serial.o mt6260_timerisr.o mt6260_usbdev.o up_assert.o up_blocktask.o up_copyfullstate.o up_createstack.o up_dataabort.o up_mdelay.o up_udelay.o up_exit.o up_idle.o up_initialize.o up_initialstate.o up_interruptcontext.o up_lowputs.o up_prefetchabort.o up_releasepending.o up_releasestack.o up_reprioritizertr.o up_schedulesigaction.o up_sigdeliver.o up_syscall.o up_unblocktask.o up_undefinedinsn.o up_usestack.o up_vfork.o up_elf.o
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+CC:  builtin.c
+CC:  builtin_list.c
+CC:  exec_builtin.c
+AR:   builtin.o builtin_list.o exec_builtin.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+CC:  cpuhog_main.c
+AR:   cpuhog_main.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+CC:  mount_main.c
+CC:  ramdisk.c
+AR:   mount_main.o ramdisk.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+CC:  nsh_main.c
+AR:   nsh_main.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+CC:  ostest_main.c
+CC:  dev_null.c
+CC:  restart.c
+CC:  waitpid.c
+CC:  cancel.c
+CC:  cond.c
+CC:  mutex.c
+CC:  sem.c
+CC:  barrier.c
+CC:  roundrobin.c
+CC:  rmutex.c
+CC:  sighand.c
+CC:  timedwait.c
+CC:  mqueue.c
+CC:  timedmqueue.c
+CC:  posixtimer.c
+CC:  vfork.c
+CC:  prioinherit.c
+AR:   ostest_main.o dev_null.o restart.o waitpid.o cancel.o cond.o mutex.o sem.o barrier.o roundrobin.o rmutex.o sighand.o timedwait.o mqueue.o timedmqueue.o posixtimer.o vfork.o prioinherit.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+CC:  usbserial_main.c
+AR:   usbserial_main.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+CC:  usbterm_main.c
+AR:   usbterm_main.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+CC:  nsh_init.c
+CC:  nsh_parse.c
+CC:  nsh_console.c
+CC:  nsh_script.c
+CC:  nsh_command.c
+CC:  nsh_fscmds.c
+CC:  nsh_ddcmd.c
+CC:  nsh_proccmds.c
+CC:  nsh_mmcmds.c
+CC:  nsh_envcmds.c
+CC:  nsh_dbgcmds.c
+CC:  nsh_session.c
+CC:  nsh_builtin.c
+CC:  nsh_fileapps.c
+CC:  nsh_mntcmds.c
+CC:  nsh_consolemain.c
+CC:  nsh_test.c
+CC:  nsh_usbconsole.c
+nsh_usbconsole.c: In function 'nsh_consolemain':
+nsh_usbconsole.c:293:9: warning: implicit declaration of function 'usbdev_serialinitialize' [-Wimplicit-function-declaration]
+  293 |   ret = usbdev_serialinitialize(CONFIG_NSH_USBDEV_MINOR);
+      |         ^~~~~~~~~~~~~~~~~~~~~~~
+CC:  nsh_usbtrace.c
+AR:   nsh_init.o nsh_parse.o nsh_console.o nsh_script.o nsh_command.o nsh_fscmds.o nsh_ddcmd.o nsh_proccmds.o nsh_mmcmds.o nsh_envcmds.o nsh_dbgcmds.o nsh_session.o nsh_builtin.o nsh_fileapps.o nsh_mntcmds.o nsh_consolemain.o nsh_test.o nsh_usbconsole.o nsh_usbtrace.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+AR:   
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+CC:  ramtest.c
+AR:   ramtest.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+CC:  readline_common.c
+CC:  readline.c
+AR:   readline_common.o readline.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+CC:  sysinfo.c
+AR:   sysinfo.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+CC:  usbmonitor.c
+AR:   usbmonitor.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+CC:  cle.c
+AR:   cle.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+CC:  vi.c
+AR:   vi.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+CC:  fs_close.c
+CC:  fs_closedir.c
+CC:  fs_dup.c
+CC:  fs_dup2.c
+CC:  fs_fcntl.c
+CC:  fs_filedup.c
+CC:  fs_filedup2.c
+CC:  fs_ioctl.c
+CC:  fs_lseek.c
+CC:  fs_mkdir.c
+CC:  fs_open.c
+CC:  fs_opendir.c
+CC:  fs_poll.c
+CC:  fs_read.c
+CC:  fs_readdir.c
+CC:  fs_rename.c
+CC:  fs_rewinddir.c
+CC:  fs_rmdir.c
+CC:  fs_seekdir.c
+CC:  fs_stat.c
+CC:  fs_statfs.c
+CC:  fs_select.c
+CC:  fs_unlink.c
+CC:  fs_write.c
+CC:  fs_files.c
+CC:  fs_foreachinode.c
+CC:  fs_inode.c
+CC:  fs_inodeaddref.c
+CC:  fs_inodebasename.c
+CC:  fs_inodefind.c
+CC:  fs_inoderelease.c
+CC:  fs_inoderemove.c
+CC:  fs_inodereserve.c
+CC:  fs_registerdriver.c
+CC:  fs_unregisterdriver.c
+CC:  fs_registerblockdriver.c
+CC:  fs_unregisterblockdriver.c
+CC:  fs_findblockdriver.c
+CC:  fs_openblockdriver.c
+CC:  fs_closeblockdriver.c
+CC:  mmap/fs_mmap.c
+CC:  fs_fdopen.c
+CC:  fs_syslog.c
+CC:  fs_fsync.c
+CC:  fs_mount.c
+CC:  fs_umount.c
+CC:  fs_foreachmountpoint.c
+CC:  fat/fs_fat32.c
+CC:  fat/fs_fat32dirent.c
+CC:  fat/fs_fat32attrib.c
+CC:  fat/fs_fat32util.c
+CC:  fat/fs_mkfatfs.c
+CC:  fat/fs_configfat.c
+CC:  fat/fs_writefat.c
+CC:  binfs/fs_binfs.c
+CC:  procfs/fs_procfs.c
+CC:  procfs/fs_procfsutil.c
+CC:  procfs/fs_procfsproc.c
+CC:  procfs/fs_procfsuptime.c
+CC:  procfs/fs_procfscpuload.c
+AR:   fs_close.o fs_closedir.o fs_dup.o fs_dup2.o fs_fcntl.o fs_filedup.o fs_filedup2.o fs_ioctl.o fs_lseek.o fs_mkdir.o fs_open.o fs_opendir.o fs_poll.o fs_read.o fs_readdir.o fs_rename.o fs_rewinddir.o fs_rmdir.o fs_seekdir.o fs_stat.o fs_statfs.o fs_select.o fs_unlink.o fs_write.o fs_files.o fs_foreachinode.o fs_inode.o fs_inodeaddref.o fs_inodebasename.o fs_inodefind.o fs_inoderelease.o fs_inoderemove.o fs_inodereserve.o fs_registerdriver.o fs_unregisterdriver.o fs_registerblockdriver.o fs_unregisterblockdriver.o fs_findblockdriver.o fs_openblockdriver.o fs_closeblockdriver.o fs_mmap.o fs_fdopen.o fs_syslog.o fs_fsync.o fs_mount.o fs_umount.o fs_foreachmountpoint.o fs_fat32.o fs_fat32dirent.o fs_fat32attrib.o fs_fat32util.o fs_mkfatfs.o fs_configfat.o fs_writefat.o fs_binfs.o fs_procfs.o fs_procfsutil.o fs_procfsproc.o fs_procfsuptime.o fs_procfscpuload.o
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+CC:  bch/bchlib_setup.c
+CC:  bch/bchlib_teardown.c
+CC:  bch/bchlib_read.c
+CC:  bch/bchlib_write.c
+CC:  bch/bchlib_cache.c
+CC:  bch/bchlib_sem.c
+CC:  bch/bchdev_register.c
+CC:  bch/bchdev_unregister.c
+CC:  bch/bchdev_driver.c
+CC:  pipes/pipe.c
+CC:  pipes/fifo.c
+CC:  pipes/pipe_common.c
+CC:  serial/serial.c
+CC:  serial/serialirq.c
+CC:  serial/lowconsole.c
+CC:  syslog/ramlog.c
+CC:  usbdev/pl2303.c
+CC:  usbdev/usbdev_strings.c
+CC:  usbdev/usbdev_trace.c
+CC:  usbdev/usbdev_trprintf.c
+CC:  usbhost/hid_parser.c
+CC:  dev_null.c
+CC:  dev_zero.c
+CC:  loop.c
+CC:  ramdisk.c
+CC:  rwbuffer.c
+AR:   bchlib_setup.o bchlib_teardown.o bchlib_read.o bchlib_write.o bchlib_cache.o bchlib_sem.o bchdev_register.o bchdev_unregister.o bchdev_driver.o pipe.o fifo.o pipe_common.o serial.o serialirq.o lowconsole.o ramlog.o pl2303.o usbdev_strings.o usbdev_trace.o usbdev_trprintf.o hid_parser.o dev_null.o dev_zero.o loop.o ramdisk.o rwbuffer.o
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+CC:  binfmt_globals.c
+CC:  binfmt_register.c
+CC:  binfmt_unregister.c
+CC:  binfmt_loadmodule.c
+CC:  binfmt_unloadmodule.c
+CC:  binfmt_execmodule.c
+CC:  binfmt_exec.c
+CC:  binfmt_dumpmodule.c
+CC:  binfmt_exepath.c
+CC:  binfmt_schedunload.c
+CC:  symtab_findbyname.c
+CC:  symtab_findbyvalue.c
+CC:  symtab_findorderedbyname.c
+CC:  symtab_findorderedbyvalue.c
+CC:  nxflat.c
+CC:  libnxflat/libnxflat_init.c
+CC:  libnxflat/libnxflat_uninit.c
+CC:  libnxflat/libnxflat_addrenv.c
+CC:  libnxflat/libnxflat_load.c
+CC:  libnxflat/libnxflat_unload.c
+CC:  libnxflat/libnxflat_verify.c
+CC:  libnxflat/libnxflat_read.c
+CC:  libnxflat/libnxflat_bind.c
+CC:  elf.c
+CC:  libelf/libelf_bind.c
+CC:  libelf/libelf_init.c
+CC:  libelf/libelf_addrenv.c
+CC:  libelf/libelf_iobuffer.c
+CC:  libelf/libelf_load.c
+CC:  libelf/libelf_read.c
+CC:  libelf/libelf_sections.c
+CC:  libelf/libelf_symbols.c
+CC:  libelf/libelf_uninit.c
+CC:  libelf/libelf_unload.c
+CC:  libelf/libelf_verify.c
+CC:  builtin.c
+CC:  libbuiltin/libbuiltin_getname.c
+CC:  libbuiltin/libbuiltin_isavail.c
+AR:   binfmt_globals.o binfmt_register.o binfmt_unregister.o binfmt_loadmodule.o binfmt_unloadmodule.o binfmt_execmodule.o binfmt_exec.o binfmt_dumpmodule.o binfmt_exepath.o binfmt_schedunload.o symtab_findbyname.o symtab_findbyvalue.o symtab_findorderedbyname.o symtab_findorderedbyvalue.o nxflat.o libnxflat_init.o libnxflat_uninit.o libnxflat_addrenv.o libnxflat_load.o libnxflat_unload.o libnxflat_verify.o libnxflat_read.o libnxflat_bind.o elf.o libelf_bind.o libelf_init.o libelf_addrenv.o libelf_iobuffer.o libelf_load.o libelf_read.o libelf_sections.o libelf_symbols.o libelf_uninit.o libelf_unload.o libelf_verify.o builtin.o libbuiltin_getname.o libbuiltin_isavail.o
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+AS:  chip/mt6260_head.S
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+CC:  fernvale_boot.c
+CC:  fernvale_clkinit.c
+CC:  fernvale_nsh.c
+AR:   fernvale_boot.o fernvale_clkinit.o fernvale_nsh.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+LD: nuttx
+arm-none-eabi-ld: Error: unable to disambiguate: -nostartfiles (did you mean --nostartfiles ?)
+make[1]: *** [Makefile:178: nuttx] Error 1
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make: *** [Makefile.unix:672: pass2] Error 2
+LN: include/arch/board to configs/kosagi-fernvale/include
+LN: include/arch/chip to arch/arm/include/mt6260
+LN: arch/arm/src/chip to arch/arm/src/mt6260
+LN: include/apps to ../apps/include
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[3]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[3]: Nothing to be done for 'context'.
+make[3]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+Register: ramtest
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[3]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[3]: Nothing to be done for 'context'.
+make[3]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+Register: ramtest
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: 'libsched.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: 'libc.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: 'libmm.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: 'libarch.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+CC:  builtin_list.c
+AR:   builtin.o builtin_list.o exec_builtin.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: 'libfs.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: 'libdrivers.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: 'libbinfmt.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+make[2]: 'libboard.a' is up to date.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+LD: nuttx
+arm-none-eabi-ld: Error: unable to disambiguate: -nostartfiles (did you mean --nostartfiles ?)
+make[1]: *** [Makefile:178: nuttx] Error 1
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make: *** [Makefile.unix:672: pass2] Error 2
+LN: include/arch to arch/arm/include
+LN: include/arch/board to configs/kosagi-fernvale/include
+LN: include/arch/chip to arch/arm/include/mt6260
+LN: arch/arm/src/board to configs/kosagi-fernvale/src
+LN: arch/arm/src/chip to arch/arm/src/mt6260
+LN: include/apps to ../apps/include
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[3]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[3]: Nothing to be done for 'context'.
+make[3]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+Register: ramtest
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[3]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[3]: Nothing to be done for 'context'.
+make[3]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+Register: ramtest
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: 'libsched.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: 'libc.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: 'libmm.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: 'libarch.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+CC:  builtin_list.c
+AR:   builtin.o builtin_list.o exec_builtin.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: 'libfs.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: 'libdrivers.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: 'libbinfmt.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+make[2]: 'libboard.a' is up to date.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+LD: nuttx
+arm-none-eabi-ld: warning: /opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/lib/libgcc.a(bpabi.o) uses 32-bit enums yet the output is to use variable-size enums; use of enum values across objects may fail
+arm-none-eabi-ld: warning: /opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/lib/libgcc.a(_divdi3.o) uses 32-bit enums yet the output is to use variable-size enums; use of enum values across objects may fail
+arm-none-eabi-ld: warning: /opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/lib/libgcc.a(_udivdi3.o) uses 32-bit enums yet the output is to use variable-size enums; use of enum values across objects may fail
+arm-none-eabi-ld: warning: clock_gettimeofday.o: missing .note.GNU-stack section implies executable stack
+arm-none-eabi-ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+CP: nuttx.bin

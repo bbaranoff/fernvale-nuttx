@@ -1,0 +1,236 @@
+LN: include/arch/board to configs/kosagi-fernvale/include
+LN: include/arch/chip to arch/arm/include/mt6260
+LN: arch/arm/src/board to configs/kosagi-fernvale/src
+LN: arch/arm/src/chip to arch/arm/src/mt6260
+LN: include/apps to ../apps/include
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[3]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[3]: Nothing to be done for 'context'.
+make[3]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+Register: ramtest
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[3]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[3]: Nothing to be done for 'context'.
+make[3]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin/registry'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+Register: ramtest
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'context'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+LN: platform/board to /opt/GSM/fernvale-nuttx/apps/platform/dummy
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Nothing to be done for 'depend'.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: 'libsched.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/sched'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: 'libc.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/libc'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: 'libmm.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/mm'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: 'libarch.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/apps'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+CC:  builtin_list.c
+AR:   builtin.o builtin_list.o exec_builtin.o
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/builtin'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/cpuhog'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/mount'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/nsh'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/ostest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbserial'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/examples/usbterm'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/nshlib'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/platform'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/ramtest'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/readline'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/sysinfo'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/usbmonitor'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/cle'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/apps/system/vi'
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/apps'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: 'libfs.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/fs'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+CC:  usbdev/pl2303.c
+AR:   bchlib_setup.o bchlib_teardown.o bchlib_read.o bchlib_write.o bchlib_cache.o bchlib_sem.o bchdev_register.o bchdev_unregister.o bchdev_driver.o pipe.o fifo.o pipe_common.o serial.o serialirq.o lowconsole.o ramlog.o pl2303.o usbdev_strings.o usbdev_trace.o usbdev_trprintf.o hid_parser.o dev_null.o dev_zero.o loop.o ramdisk.o rwbuffer.o
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/drivers'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: 'libbinfmt.a' is up to date.
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/binfmt'
+make[1]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+make[2]: Entering directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+make[2]: 'libboard.a' is up to date.
+make[2]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/src'
+LD: nuttx
+arm-none-eabi-ld: warning: /opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/lib/libgcc.a(bpabi.o) uses 32-bit enums yet the output is to use variable-size enums; use of enum values across objects may fail
+arm-none-eabi-ld: warning: /opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/lib/libgcc.a(_divdi3.o) uses 32-bit enums yet the output is to use variable-size enums; use of enum values across objects may fail
+arm-none-eabi-ld: warning: /opt/GSM/fernvale-nuttx/nuttx/configs/kosagi-fernvale/lib/libgcc.a(_udivdi3.o) uses 32-bit enums yet the output is to use variable-size enums; use of enum values across objects may fail
+arm-none-eabi-ld: warning: clock_gettimeofday.o: missing .note.GNU-stack section implies executable stack
+arm-none-eabi-ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+make[1]: Leaving directory '/opt/GSM/fernvale-nuttx/nuttx/arch/arm/src'
+CP: nuttx.bin
